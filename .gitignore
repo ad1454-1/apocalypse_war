@@ -1,0 +1,9 @@
+_本地mod备份/
+_docdump.json
+*.zip
+*.7z
+Thumbs.db
+.DS_Store
+desktop.ini
+docs/
+!release/*.zip
