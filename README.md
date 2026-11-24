@@ -42,13 +42,20 @@
 README.md
 LICENSE
 release/
-├─ Apocalypse_War_Workshop.zip
-└─ Apocalypse_War_Local.zip
+├─ v0.1.0/
+│  ├─ Apocalypse_War_Workshop.zip
+│  └─ Apocalypse_War_Local.zip
+└─ v0.1.1/
+   ├─ Apocalypse_War_Workshop.zip
+   └─ Apocalypse_War_Local.zip
 ```
 
 ## 下载
 
-仓库的 `release/` 提供两个压缩包，按需下载其中一个即可，**不要同时安装**。
+仓库的 `release/` 按版本分目录，每个版本里两个压缩包，按需下载其中一个即可，**不要同时安装**。
+
+- `Apocalypse_War_Local.zip`：解压到 `Documents/Paradox Interactive/Stellaris/mod/`，启动器启用
+- `Apocalypse_War_Workshop.zip`：创意工坊上传用包，内容与本地版相同
 
 ### Apocalypse_War_Workshop.zip
 
@@ -90,6 +97,14 @@ Documents/Paradox Interactive/Stellaris/mod/
 1. 把 `apocalypse_war` 文件夹放进 `Documents/Paradox Interactive/Stellaris/mod/`
 2. 把 `apocalypse_war.mod` 一并放进 `mod/`
 3. 启动器播放集里启用
+
+## 更新日志
+
+### 0.1.1（2026-11-24）
+
+- 增加母星资源
+- 增加一个遗珍 `~`
+- 增加了一些事件
 
 ## 协议与免责声明
 
