@@ -105,6 +105,7 @@ Documents/Paradox Interactive/Stellaris/mod/
 - 增加母星资源
 - 增加一个遗珍 `~`
 - 增加了一些事件
+- 兼容 Stellaris 4.6
 
 ## 协议与免责声明
 
@@ -113,5 +114,3 @@ Documents/Paradox Interactive/Stellaris/mod/
 - 仅供学习、交流与个人游玩使用
 - 禁止任何形式的商业用途，包括售卖、付费整合、商业二创
 - 转载、修改、再发布请署名原作者，并以相同方式共享
-- 模组按现状提供，不对因使用产生的任何问题负责
-- 与 Paradox Interactive 及 Steam 无关，相关素材版权归各自权利人所有
